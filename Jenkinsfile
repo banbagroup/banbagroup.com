@@ -11,7 +11,7 @@ pipeline {
                             sh 'gcloud auth activate-service-account --key-file $GOOGLE_APPLICATION_CREDENTIALS'
                             sh 'gcloud auth list'
                             sh 'gcloud config set project banba-group'
-			    sh 'export APP=vayu.com.au'
+			    sh 'export APP=banbagroup.com'
                             sh 'ruby ./bin/check_build.rb'
 			}
                     }
@@ -30,7 +30,7 @@ pipeline {
                             sh 'gcloud auth list'
                             sh 'gcloud config set project banba-group'
 			    sh 'gcloud container clusters get-credentials production --zone us-central1-a'
-                            sh 'kubectl set image deployment vayu-com-au vayu-com-au=gcr.io/banba-group/vayu.com.au:${GIT_COMMIT}'
+                            sh 'kubectl set image deployment banbagroup banbagroup=gcr.io/banba-group/banbagroup.com:${GIT_COMMIT}'
 			}
                     }
                 }

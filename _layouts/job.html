@@ -3,55 +3,55 @@ layout: default
 ---
 
 
-<div class="content-wrap">
-  <div class="main-features">
-    <div class="wrapper">
-      <div class="row-fluid">
-        <div class="span12" style="padding-bottom: 20px">
-          <h1 style="font-size: 30px;line-height: 1.6;text-align:left;"><a href="{{ page.url }}">{{ page.title }}</a></h1>
-          <div style="padding-bottom: 20px">{{ page.date | date: '%B %d, %Y' }}</div>
 
-          <div class="excerpt" style="font-size: 18px;line-height: 1.6;">
-	    {{ page.excerpt | strip_html | truncatewords:75 }}
-          </div>
-          
-        </div>
-      </div>	  
+<div class="content" style="margin-top: 50px;">
+  <!-- Intro Title Section 2 -->
+  <div class="section-block intro-title-1 small bkg-grey-ultralight">
+    <div class="row">
+      <div class="column width-10 offset-1">
+	<div class="title-container">
+	  <div class="title-container-inner">
+	    <div class="row flex">
+	      <div class="column width-6 v-align-middle">
+		<div>
+		</div>
+	      </div>
+	      <div class="column width-6 v-align-middle">
+		<div>
+		  <ul class="breadcrumb mb-0 pull-right clear-float-on-mobile">
+		    <li>
+		      <a href="/">Home</a>
+		    </li>
+		    <li>	
+		      <a href="/jobs">Jobs</a>
+		    </li>
+		    <li>	
+		      {{page.title}}
+		    </li>		    
+		  </ul>
+		</div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
     </div>
   </div>
-</div>
+  <!-- Intro Title Section 2 End -->
+  <div class="section-block mt-0 pt-0 pb-0 bkg-grey-ultralight">
+    <div class="row">
 
-
-
-
-<div class="content-wrap">
-
-  <div class="main-features">
-    <div class="wrapper">
-      <h1 class="main-feat-title" id="features">
-        We specialise in <span class="bold">bespoke software</span>
-      </h1>
-
-      <h2 class="main-feat-p">We can build the ideas in your head and make them a reality</h2>
-
-      <div class="box first">
-        <div class="row-fluid">
-          <div class="span6">
-            <H4>Building better applications</H4>
-
-            <p>Exceptional development on the web is done with cutting-edge technologies like Ruby, React JS, Vue JS and other modern frameworks. At Vayu, we're polyglots - we use the the latest technology to rapidly bring your projects to fruition.   We also understand how to build at scale with containers & Kubernetes in our toolbelt.</p>
-            <p>We're always discovering and learning.  Naturally curious, we stay on top of trends and new technologies to help our clients reach future-facing solutions.</p>
-          </div>
-
-          <div class="span6 imagelink1 zoomlink ">
-            <a href="/assets/images/frontend/mockup/main1.png" data-gal="prettyPhoto[gallery1]">
-              <span class="roll"></span>
-	      <img src="/assets/images/frontend/mockup/main1.png" rel="prettyPhoto">
-            </a>
-          </div>
-        </div>
+      <div class="column width-10 offset-1 content-inner blog-regular">
+  	<article class="post">
+	  <div class="post-content with-background">
+	    <h2 class="post-title center"><a href="{{page.url}}">{{page.title}}</a></h2>
+	    <div class="post-info center">
+	      <span class="post-date">{{ page.date | date: '%B %d, %Y' }}</span>
+	    </div>
+	    <p>{{ page.content  }}</p>
+	  </div>
+	</article>
       </div>
-
     </div>
   </div>
 </div>
