@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Phoenix 1.4 officially released"
+date:   "2018-11-08 04:52:42.435401"
+categories: blog
+excerpt: "This release ships with exciting new features, most notably HTTP2 support, improved development experience with faster compile times, new error pages, and local SSL certificate generation. Additionally, our channel layer internals received an overhaul, providing better structure and extensibility. We also shipped a new and improved Presence javascript API, as well as Elixir formatter integration for our routing and testing DSLs."
+---
+
+<div>November brings about the latest release of Phoenix. This release brings some exciting new features:<br><br></div><ol><li>HTTP2 support</li><li>Faster compile times</li><li>New error pages</li><li>Local SSL certificate generation</li><li>Overhauled channel layer internals providing better structure and extensibility.</li><li>An improved Presence javascript API</li><li>Elixir formatter integration for routing and testing DSLs.</li></ol><div>Exciting times ahead, now to get upgrading.<br><br></div><div><a href="https://phoenixframework.org/blog/phoenix-1-4-0-released">https://phoenixframework.org/blog/phoenix-1-4-0-released<br></a><br></div>
