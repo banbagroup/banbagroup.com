@@ -1,6 +1,7 @@
 ---
-title: Banba Group | Home
+title: Home | Banba Group | Software engineering | Machine Learning | Artificial Intelligence
 layout: default
+
 ---
 
 
