@@ -1,6 +1,6 @@
 ---
 layout: job
-title:  "Senior Javascript Engineer"
+title:  "Senior Javascript Engineer @ Banba Group"
 positions: 2
 date:   "2019-07-04"
 categories: job
