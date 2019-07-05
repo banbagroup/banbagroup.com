@@ -1,5 +1,5 @@
 ---
-title: Vayu | Blog
+title: Banba Group | Blog
 layout: default
 ---
 
