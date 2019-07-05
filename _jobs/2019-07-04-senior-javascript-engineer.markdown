@@ -6,7 +6,7 @@ date:   "2019-07-04"
 categories: job
 excerpt: "We are looking for two senior Javascript developers in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide."
 ---
-We are looking for a senior Javascript developer in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in the construction industry that has traction and users worldwide.
+We are looking for a senior Javascript developer in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide.
 
 |**Experience level:**|Mid-Level, Senior, Lead|
 |**Role:**|Senior Javascript Engineer|
