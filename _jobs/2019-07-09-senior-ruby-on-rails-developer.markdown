@@ -13,7 +13,7 @@ We are looking for a senior Ruby on Rails developer in Nepal.  You'll be part of
 |**Industry:**|Software, Mobile|
 |**Company size:**|11-20 people|
 |**Company type:**|Private|
-|**Salary:**|70,000 - 150,000 NPR per month (depending on experience)|
+|**Salary:**|depending on experience|
 |**Office Location:**|Jwagal, Lalitpur. Remote and flexible work is available.|
 
 

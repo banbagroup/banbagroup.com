@@ -36,7 +36,7 @@ layout: default
     </div>
   </div>
   <!-- Intro Title Section 2 End -->
-  {% for post in site.jobs %}
+  {% for post in site.jobs reversed %}
     <div class="section-block clearfix pt-0 pb-0 bkg-grey-ultralight" style="padding-top: 20px;">
       <div class="row">
 

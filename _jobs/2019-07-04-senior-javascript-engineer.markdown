@@ -13,7 +13,7 @@ We are looking for a senior Javascript developer in Nepal.  You'll be part of ou
 |**Industry:**|Software, Mobile|
 |**Company size:**|11-20 people|
 |**Company type:**|Private|
-|**Salary:**|70,000 - 250,000 NPR per month (depending on experience)|
+|**Salary:**|Depending on experience|
 |**Office Location:**|Jwagal, Lalitpur. Remote and flexible work is available.|
 
 
