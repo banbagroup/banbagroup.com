@@ -59,6 +59,8 @@ If you've worked on a Ruby development team, making an app that solves '\<insert
 
 Train the next generation by hosting events like this, or hackathons or whatever, just start doing something.  The whole community could use your collective help, start today and give back.  We can't improve the community without the help of the community. And that includes you. So get involved!
 
-PS: If anyone is looking to use our venue for such events in the future please get in touch at [hi@banbagroup.com](mailto:hi@banbagroup.com).  Unlike other venues in Kathmandu we won't charge for use of the space. 
+PS: If anyone is looking to use our venue for such events in the future please get in touch at [hi@banbagroup.com](mailto:hi@banbagroup.com).  Unlike other venues in Kathmandu we won't charge for use of the space.
+
+If you're interested in joining future Rails Girls events then head to [http://railsgirls.com/](http://railsgirls.com/)
 
 Also, we've a number of positions open so take a look at [https://www.banbagroup.com/jobs](https://www.banbagroup.com/jobs)
