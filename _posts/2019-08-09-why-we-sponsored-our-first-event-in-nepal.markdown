@@ -3,7 +3,7 @@ layout: post
 title:  "Why we sponsored our first event in Nepal"
 date:   "2019-08-09 11:54:55.536939"
 categories: blog
-excerpt: "Why we sponsored our first event in Nepal"
+excerpt: "Why we sponsored our first event in Nepal. Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford." 
 ---
 Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford.
 
