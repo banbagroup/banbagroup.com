@@ -15,7 +15,9 @@ RUN bundle install && bundle exec jekyll build \
     && cp -R _site/* /var/www/html/ \
     && cp -R public/ /var/www/html/ \
     && cp -R _site/blog.html /var/www/html/blog/index.html \
-    && mv nginx.conf /etc/nginx/sites-available/default
+    && mv nginx.conf /etc/nginx/sites-available/default \
+    && ls -alR /var/www/html/blog \
+    && ls -alR /var/www/html/job \    
     
 
 EXPOSE 80
