@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why we sponsored our first event in Nepal"
-date:   "2019-08-09 11:54:55.536939"
+date:   "2019-08-08 11:54:55.536939"
 categories: blog
 excerpt: "Why we sponsored our first event in Nepal. Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford." 
 ---
@@ -11,7 +11,6 @@ Nepal has very few free technology events.  It is what it is, a massive problem.
 Obviously this has had a massive impact on the local tech community.  Having experienced  community events throughout the world we know the benefits that can come out of discussing technology, being inspired, learning new things and pushing your own personal development forward.  Students in particular are affected by this and this needs to change. 
 
 Last month our organisation was approached to sponsor a Rails Girls event in Kathmandu.  We didn't hesitate and are always fully support events in any way shape or form and are happy to contribute however we can.
-
 
 <div class="text-center mt-5">
   <img src="/assets/images/railsgirls/rails-girls-1.jpeg" alt="Rails Girls Kathmandu" title="Rails Girls Kathmandu" class="img-responsive" />
@@ -25,7 +24,7 @@ Throughout the weekend the participants learn sketching, prototyping, basic prog
 
 Rails Girls events are non-profit. They don’t charge the participants and do not pay for coaches or speakers. Participants don’t need any previous knowledge about programming and there are no age-limitations. All the participants need is a laptop and some curiosity.
 
-The two-day event included a lot of small group working and short focused talks on programming, design and web. No panel discussions or podium-talks - the spirit was informal and hands-on. The more you can remove abstractions and add inclusivity the better.
+The two-day event (July 26-27 2019) included a lot of small group working and short focused talks on programming, design and web. No panel discussions or podium-talks - the spirit was informal and hands-on. The more you can remove abstractions and add inclusivity the better.
 
 <div class="row flex mb-10">
   <div class="column width-4 mt-5">

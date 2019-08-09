@@ -11,8 +11,7 @@ RUN apt-get update \
 WORKDIR $app
 
 ADD . $app
-RUN bundle install && bundle exec jekyll build \
-    && ls -alR _site/blog \
+RUN bundle install && bundle exec jekyll build --verbose \
     && cp -R _site/* /var/www/html/ \
     && cp -R public/ /var/www/html/ \
     && cp -R _site/blog.html /var/www/html/blog/index.html \
