@@ -45,7 +45,7 @@ We provided our office space over a two day period free of charge; the event ran
 
 ### Developers are always hungry
 
-As the Friday night was only for a few hours, helping people install their systems for a full day on Saturday no food was required. We did however provide lunch and snacks, pizza, momo's and potatoe achar with soft drinks.  These were not expensive but just required some organising for head counts and deliveries (many venues are closed on Saturdays with delivery non-existant).
+As the Friday night was only for a few hours, helping people install their systems for a full day on Saturday no food was required. We did however provide lunch and snacks, pizza, momo's and spicy potato with soft drinks.  These were not expensive but just required some organising for head counts and deliveries (many venues are closed on Saturdays with delivery non-existant).
 
 ### How did it go?
 
