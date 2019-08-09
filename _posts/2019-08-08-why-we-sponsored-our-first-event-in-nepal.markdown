@@ -10,7 +10,7 @@ Nepal has very few free technology events.  It is what it is, a massive problem.
 
 Obviously this has had a massive impact on the local tech community.  Having experienced  community events throughout the world we know the benefits that can come out of discussing technology, being inspired, learning new things and pushing your own personal development forward.  Students in particular are affected by this and this needs to change. 
 
-Last month our organisation was approached to sponsor a Rails Girls event in Kathmandu.  We didn't hesitate and are always fully support events in any way shape or form and are happy to contribute however we can.
+Last month our organisation was approached Saroj Maharjan of Ruby Nepal to sponsor a Rails Girls event in Kathmandu.  We didn't hesitate and are always fully support events in any way shape or form and are happy to contribute however we can.
 
 <div class="text-center mt-5">
   <img src="/assets/images/railsgirls/rails-girls-1.jpeg" alt="Rails Girls Kathmandu" title="Rails Girls Kathmandu" class="img-responsive" />
@@ -45,7 +45,7 @@ We provided our office space over a two day period free of charge; the event ran
 
 ### Developers are always hungry
 
-As the Friday night was only for a few hours, helping people install their systems for a full day on Saturday no food was required. We did however provide lunch and snacks, pizza, momo's and spicy potato with soft drinks.  These were not expensive but just required some organising for head counts and deliveries (many venues are closed on Saturdays with delivery non-existant).
+As the Friday night was only for a few hours, helping people install their systems for a full day on Saturday no food was required. We did however provide lunch and snacks, pizza, momo's and spicy potato with soft drinks.  These were not expensive but just required some organising for head counts and deliveries (many venues are closed on Saturdays with delivery nonexistant).
 
 ### How did it go?
 
@@ -62,5 +62,7 @@ Train the next generation by hosting events like this, or hackathons or whatever
 PS: If anyone is looking to use our venue for such events in the future please get in touch at [hi@banbagroup.com](mailto:hi@banbagroup.com).  Unlike other venues in Kathmandu we won't charge for use of the space.
 
 If you're interested in joining future Rails Girls events then head to [http://railsgirls.com/](http://railsgirls.com/)
+
+If you're interested in attending future Ruby meetups in Nepal then then head to [https://rubynepal.org/](http://rubynepal.org/)
 
 Also, we've a number of positions open so take a look at [https://www.banbagroup.com/jobs](https://www.banbagroup.com/jobs)
