@@ -5,6 +5,7 @@ date:   "2019-08-09 11:54:55.536939"
 categories: blog
 excerpt: "Why we sponsored our first event in Nepal. Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford." 
 ---
+
 Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford.
 
 Obviously this has had a massive impact on the local tech community.  Having experienced  community events throughout the world we know the benefits that can come out of discussing technology, being inspired, learning new things and pushing your own personal development forward.  Students in particular are affected by this and this needs to change. 

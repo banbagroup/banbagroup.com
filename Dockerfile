@@ -12,12 +12,11 @@ WORKDIR $app
 
 ADD . $app
 RUN bundle install && bundle exec jekyll build \
+    && ls -alR _site/blog \
     && cp -R _site/* /var/www/html/ \
     && cp -R public/ /var/www/html/ \
     && cp -R _site/blog.html /var/www/html/blog/index.html \
-    && mv nginx.conf /etc/nginx/sites-available/default \
-    && ls -alR /var/www/html/blog \
-    && ls -alR /var/www/html/job
+    && mv nginx.conf /etc/nginx/sites-available/default
     
 
 EXPOSE 80
