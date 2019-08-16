@@ -43,8 +43,8 @@ layout: default
         <div class="column width-10 offset-1 content-inner blog-regular">
   	  <article class="post">
 	    <div class="post-content with-background">
-	      <h2 class="post-title center"><a href="{{post.url}}">{{post.title}}</a></h2>
-	      <div class="post-info center">
+	      <h2 class="post-title"><a href="{{post.url}}">{{post.title}}</a></h2>
+	      <div class="post-info">
 	        <span class="post-date">{{ post.date | date: '%B %d, %Y' }}</span>
 	      </div>
 	      <p>{{ post.excerpt | strip_html | truncatewords:75 }}</p>
