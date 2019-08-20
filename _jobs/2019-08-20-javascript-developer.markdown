@@ -7,6 +7,7 @@ categories: job
 excerpt: "We are looking for a mid level javascript developer to join our team.  You'll be working on an exciting new product in an industry that has traction and users worldwide.  Do you know jest, typescript and es6? Eager to learn Vue? Then apply now."
 cover_image: "https://www.banbagroup.com/assets/images/pair-programming.png"
 ---
+
 ![Javascript Developer](https://www.banbagroup.com/assets/images/pair-programming.png "Javascript Developer")
 
 We are looking for a mid level Javascript developer in Nepal.  You'll be working on an exciting new product in an industry that has traction and users worldwide.  Do you know jest, typescript and es6? Eager to learn modern JS frameworks? Then apply now. 
