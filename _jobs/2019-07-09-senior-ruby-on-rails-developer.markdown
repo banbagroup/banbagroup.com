@@ -1,6 +1,6 @@
 ---
 layout: job
-title:  "Senior Ruby on Rails Developer @ Banba Group"
+title:  "Senior Ruby on Rails Developer"
 positions: 1
 date:   "2019-07-09"
 categories: job

@@ -1,6 +1,6 @@
 ---
 layout: job
-title:  "Software Internship @ Banba Group"
+title:  "Software Internship"
 positions: 1
 date:   "2019-07-30"
 categories: job

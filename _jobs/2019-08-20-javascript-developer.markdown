@@ -1,36 +1,37 @@
 ---
 layout: job
-title:  "Senior Javascript Engineer"
-positions: 2
-date:   "2019-07-04"
+title:  "Javascript Developer"
+positions: 1
+date:   "2019-08-20"
 categories: job
-excerpt: "We are looking for two senior Javascript developers in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide."
+excerpt: "We are looking for a mid level javascript developer to join our team.  You'll be working on an exciting new product in an industry that has traction and users worldwide.  Do you know jest, typescript and es6? Eager to learn Vue? Then apply now."
+cover_image: "https://www.banbagroup.com/assets/images/pair-programming.png"
 ---
-We are looking for a senior Javascript developer in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide.
+![Javascript Developer](https://www.banbagroup.com/assets/images/pair-programming.png "Javascript Developer")
 
-|**Experience level:**|Senior|
-|**Role:**|Senior Javascript Engineer|
-|**Industry:**|Software, Mobile|
+We are looking for a mid level Javascript developer in Nepal.  You'll be working on an exciting new product in an industry that has traction and users worldwide.  Do you know jest, typescript and es6? Eager to learn modern JS frameworks? Then apply now. 
+
+You'll be working on an exciting new product in an industry that has traction and users worldwide.
+
+|**Experience level:**|Mid-Level|
+|**Role:**|Javascript developer|
+|**Industry:**|Software|
 |**Company size:**|11-20 people|
 |**Company type:**|Private|
 |**Salary:**|Depending on experience|
-|**Office Location:**|Jwagal, Lalitpur. Remote and flexible work is available.|
+|**Office Location:**|Jwagal, Lalitpur.|
 
 
 ### Responsibilities
-* Build, maintain and improve our iOS and Android application (built with React Native)
-* Plan and architect the tech for new app features, systems and integrations, and make it happen.
-* Apply pragmatism and best practices in software engineering, delivering projects on time, with excellent quality.
+* Build, maintain and improve new features for our application built in VueJs. 
+* Work with the team to plan new app features, systems and integrations, and make it happen.
 * Writing tests and continually improving our build process
 * Take ownership of the app, finding ways to improve its effectiveness, reliability and cost.
-* Solving problems at scale
+* Solve interesting problems at scale
 
 ### Requirements
-* 3+ years of Javascript experience
-* 2 years of React Native experience
-* Masters degree in a technical field
+* 1+ years of Javascript experience
 * Excellent communication skills, especially in understanding requirements and explaining technical or complex concepts
-* Demonstrate extensive JavaScript experience, with a focus on React Native
 * Experience and pragmatism in testing
 * Ability to efficiently learn new tools and languages
 * Desirable experience in build automation
@@ -54,9 +55,7 @@ Some of the technical things we offer:
 * Great equipment
 
 ### Our standard package:
-* Flexible working conditions - remote OK
 * A great working environment 
-* Great base salary
 * Yearly salary reviews according to the performance
 * Monthly OKR reviews
 * Amazing work-life balance
