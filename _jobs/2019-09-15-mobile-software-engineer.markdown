@@ -4,7 +4,7 @@ title:  "Mobile Software Engineer"
 positions: 2
 date:   "2019-09-15"
 categories: job
-excerpt: "We are looking for two senior Javascript developers in Nepal.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide."
+excerpt: "We are looking for a mobile software engineer to join our team in Nepal.  You'll be working on building, maintaining and improving an existing Android application (built with Kotlin)"
 cover_image: "https://www.banbagroup.com/assets/images/mobile-development.svg"
 ---
 
