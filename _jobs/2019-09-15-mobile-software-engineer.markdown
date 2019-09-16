@@ -5,10 +5,10 @@ positions: 2
 date:   "2019-09-15"
 categories: job
 excerpt: "We are looking for a mobile software engineer to join our team in Nepal.  You'll be working on building, maintaining and improving an existing Android application (built with Kotlin)"
-cover_image: "https://www.banbagroup.com/assets/images/mobile-development.svg"
+cover_image: "https://www.banbagroup.com/assets/images/mobile-development.png"
 ---
 
-![Kotlin Android Developer](https://www.banbagroup.com/assets/images/mobile-development.svg "Kotlin Android Developer")
+![Android - Kotlin Android Developer](https://www.banbagroup.com/assets/images/mobile-development.png "Android - Kotlin Android Developer")
 
 We are looking for a mobile software engineer to join our team in Nepal.  The developer needs to be skilled in Kotlin and has developed production ready applications in the past. 
 
