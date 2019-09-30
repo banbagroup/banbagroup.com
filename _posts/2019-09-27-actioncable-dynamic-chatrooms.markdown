@@ -3,10 +3,10 @@ layout: post
 title:  "Sockets made easy - Action Cable"
 date:   "2019-09-27 11:54:55.536939"
 categories: blog
-excerpt: "Why we sponsored our first event in Nepal. Nepal has very few free technology events.  It is what it is, a massive problem.  Many events that take place around the country always require an entry fee.  This is due to venues requiring a fee to utilise the basic space.  Even local tech spaces / incubators require a deposit fee to have a simple hour long event that non-profit / free communities cannot afford." 
-cover_image: "https://www.banbagroup.com/assets/images/data-science.png"
+excerpt: "Action Cable seamlessly integrates WebSockets with the rest of your Rails application. It allows for real-time features to be written in Ruby in the same style and form as the rest of your Rails application, while still being performant and scalable. It's a full-stack offering that provides both a client-side JavaScript framework and a server-side Ruby framework. You have access to your full domain model written with Active Record or your ORM of choice." 
+cover_image: "https://www.banbagroup.com/assets/images/blog/undraw_connected_8wvi.png"
 ---
-![Sockets - Action Cable](https://www.banbagroup.com/assets/images/undraw_connected_8wvi.png "Sockets made easy - Action Cable")
+![Sockets - Action Cable](https://www.banbagroup.com/assets/images/blog/undraw_connected_8wvi.png "Sockets made easy - Action Cable")
 
 Action Cable seamlessly integrates WebSockets with the rest of your Rails application. It allows for real-time features to be written in Ruby in the same style and form as the rest of your Rails application, while still being performant and scalable. It's a full-stack offering that provides both a client-side JavaScript framework and a server-side Ruby framework. You have access to your full domain model written with Active Record or your ORM of choice.
 
@@ -20,10 +20,6 @@ Each channel can then again be streaming zero or more broadcastings. A broadcast
 
 As you can see, this is a fairly deep architectural stack. There's a lot of new terminology to identify the new pieces, and on top of that, you're dealing with both client and server side reflections of each unit.
 
-
-
-
-
 ### Why use websocket over http?
 
 A webSocket is a continuous connection between client and server. That continuous connection allows the following:
@@ -33,7 +29,7 @@ A webSocket is a continuous connection between client and server. That continuou
 2. Data can be sent either way very efficiently. Because the connection is already established and a webSocket data frame is very efficiently organized, one can send data a lot more efficiently that via an HTTP request that necessarily contains headers, cookies, etc...
 <br/>
 
-![HTTP vs Websockets](https://www.banbagroup.com/assets/images/httpvswebsocket.png "HTTP Vs Websockets")
+![HTTP vs Websockets](https://www.banbagroup.com/assets/images/blog/httpvswebsocket.png "HTTP Vs Websockets")
 
 ### What is full duplex communication?
 
