@@ -4,7 +4,7 @@ title:  "Angular Developer"
 positions: 2
 date:   "2019-10-14"
 categories: job
-excerpt: "We are looking for an Angular developer to join our team.  You'll be part of our growing team and get to make a huge impact on the culture of our organisation.  You'll be working on an exciting new product in an industry that has traction and users worldwide."
+excerpt: "We are looking for an Angular Developer to join our awesome team and deliver a streamlined user experience. We want a team member who strives to develop a first class codebase using Angular best practices. As an AngularJS Developer, you will implement a complete user interface in the form of a mobile and desktop web app."
 cover_image: "https://www.banbagroup.com/assets/images/pair-programming.png"
 ---
 ![Javascript Developer](https://www.banbagroup.com/assets/images/pair-programming.png "Javascript Developer")
