@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 set -euo pipefail
-export DOCKER_IMAGE="gcr.io/banba-group/banbagroup-production:${BUILDKITE_COMMIT}"
+export DOCKER_IMAGE="gcr.io/banba-group/banbagroup:${BUILDKITE_COMMIT}"
 echo "--- :kubernetes: deploying ${DOCKER_IMAGE} to kubernetes"
 
 if [ -z "${DOCKER_IMAGE:-}" ]; then
