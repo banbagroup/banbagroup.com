@@ -18,3 +18,8 @@ http://localhost:4000
 ```
 
 
+## Deployment
+
+* Live on production in kubernetes
+
+* Automatic deployments to the production branch only
