@@ -14,6 +14,7 @@ master|production
 ```
 bundle install
 bundle exec jekyll serve
+http://localhost:4000
 ```
 
-http://localhost:4000
+
