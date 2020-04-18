@@ -21,7 +21,8 @@ spec:
           image:  "${DOCKER_IMAGE}"          
           imagePullPolicy: "Always"
           ports:
-          - containerPort: 80---
+          - containerPort: 80
+---
 apiVersion: "autoscaling/v1"
 kind: "HorizontalPodAutoscaler"
 metadata:
