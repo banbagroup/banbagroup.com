@@ -3,7 +3,7 @@ apiVersion: "apps/v1"
 kind: "Deployment"
 metadata:
   name: "banbagroup"
-  namespace: "default"
+  namespace: "banbagroup"
   labels:
     app: "banbagroup"
 spec:
@@ -45,7 +45,7 @@ apiVersion: "autoscaling/v1"
 kind: "HorizontalPodAutoscaler"
 metadata:
   name: "banbagroup-hpa"
-  namespace: "default"
+  namespace: "banbagroup"
   labels:
     app: "banbagroup"
 spec:
@@ -69,12 +69,12 @@ apiVersion: v1
 kind: LimitRange
 metadata:
   name: banbagroup-limit-range
-  namespace: "default"
+  namespace: "banbagroup"
 
 spec:
   limits:
   - default:
-      memory: 50Mi
-    defaultRequest:
       memory: 25Mi
+    defaultRequest:
+      memory: 15Mi
     type: Container
