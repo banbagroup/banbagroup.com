@@ -20,7 +20,7 @@ echo '--- :zzz: Waiting for deployment'
 #kubectl wait --for condition=available --timeout=150s -f "${manifest}"
 
 ATTEMPTS=0
-ROLLOUT_STATUS_CMD="kubectl rollout status deployment banbagroup --namespace=default"
+ROLLOUT_STATUS_CMD="kubectl rollout status deployment banbagroup --namespace=banbagroup"
 until $ROLLOUT_STATUS_CMD || [ $ATTEMPTS -eq 100 ]; do
     $ROLLOUT_STATUS_CMD
     ATTEMPTS=$((attempts + 1))
@@ -28,9 +28,9 @@ until $ROLLOUT_STATUS_CMD || [ $ATTEMPTS -eq 100 ]; do
     sleep 10
 done
 
-if ! kubectl rollout status deployment banbagroup --namespace=default; then
+if ! kubectl rollout status deployment banbagroup --namespace=banbagroup; then
     echo "Failed to deploy; rolling back the deployment"
-    kubectl rollout undo deployment banbagroup --namespace=default
-    kubectl rollout status deployment banbagroup --namespace=default
+    kubectl rollout undo deployment banbagroup --namespace=banbagroup
+    kubectl rollout status deployment banbagroup --namespace=banbagroup
     exit 1
 fi
