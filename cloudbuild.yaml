@@ -10,6 +10,4 @@ images:
   - 'gcr.io/$PROJECT_ID/banbagroup.com:$COMMIT_SHA'
   - 'gcr.io/$PROJECT_ID/banbagroup.com:latest'
 tags:
-  - "cloudbuild"
-
-
+  - '$COMMIT_SHA'
