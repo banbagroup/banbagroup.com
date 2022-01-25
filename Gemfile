@@ -9,7 +9,7 @@ source 'https://rubygems.org'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem 'jekyll'
+gem 'jekyll', '~> 4.2.1'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem 'minima'
@@ -23,8 +23,8 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
 end
 
+gem 'rack-jekyll', git: 'https://github.com/adaoraul/rack-jekyll'
 gem 'puma'
-gem 'rack-jekyll'
 gem 'rake'
 gem 'rack-ssl-enforcer'
 gem 'jekyll-paginate-v2'
