@@ -2,14 +2,14 @@
 
 set -euo pipefail
 export DOCKER_IMAGE="gcr.io/banba-group/banbagroup.com:${BUILDKITE_COMMIT}"
-echo "--- :kubernetes: deploying ${DOCKER_IMAGE} to kubernetes"
+echo "--- :cloudbuild: deploying ${DOCKER_IMAGE}"
 
 if [ -z "${DOCKER_IMAGE:-}" ]; then
   echo ":boom: \$DOCKER_IMAGE missing" 1>&2
   exit 1
 fi
 
-manifest="$(mktemp)"
-echo '--- :kubernetes: Shipping'
+echo '--- :cloudbuild: Shipping'
 gcloud config set project banba-group
+
 gcloud run deploy banbagroup-com --image $DOCKER_IMAGE --region us-central1 --platform managed

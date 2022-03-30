@@ -15,6 +15,6 @@ http://localhost:4000
 
 ## Deployment
 
-* Live on production in kubernetes
+* Live on production in cloud build
 
-* Automatic deployments to the production branch only
+* Automatic deployments to the main branch only
