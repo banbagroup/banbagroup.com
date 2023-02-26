@@ -2,8 +2,7 @@
 
 master|
 ------|
-[![Build status](https://badge.buildkite.com/3b3c58cd355d1b10e7f69f2d573b37f891e336b7d1edbd3b5f.svg?branch=master)](https://buildkite.com/banba-group/banbagroup-dot-com)|
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/41382033-cc85-4ef5-88bc-6f22b6668b2b/deploy-status)](https://app.netlify.com/sites/banbagroup-com/deploys)
 
 ## Development
 ```
@@ -15,6 +14,6 @@ http://localhost:4000
 
 ## Deployment
 
-* Live on production in cloud build
+* Live on production in netlify
 
 * Automatic deployments to the main branch only
