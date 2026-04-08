@@ -1,40 +1,15 @@
 ---
-title: Home | Banba Group | Software engineering | Machine Learning | Artificial Intelligence
+title: Banba Group
 layout: default
-
 ---
 
-
-<div class="content clearfix">
-  <div class="section-block window-height clear-height-on-mobile bkg-gradient-norse-beauty">
-    <div class="media-overlay background-cover opacity-06 fullscreen-pattern-2 horizon" data-animate-in="preset:scaleOut;duration:1000ms;" data-threshold="0.1"></div>
-    <div class="row flex v-align-middle one-column-on-tablet">
-      <div class="column width-5">
-	<h1 class="mb-20">
-          <span class="weiht-semi-bold color-white mb-5">
-            Beautiful scalable solutions, made with love in Nepal
-          </span>
-	</h1>
-	<p class="lead weight-light color-white mb-30">
-          Solving hard problems on the cutting edge of technology.
-	</p>
-	<div class="mb-mobile-30">
-          <a href="/get-in-touch" class="button rounded medium border-white color-white bkg-hover-green color-hover-white">
-            Get in touch
-          </a>
-          <a href="/blog" class="button rounded medium border-white color-white bkg-hover-green color-hover-white">
-            View Blog
-          </a>
-	</div>
-      </div>
-      <div class="column width-7">
-	<div>
-	  <!--   <div class="video-container mb-0 shadow"> -->
-	  <!--     <iframe src="https://player.vimeo.com/video/138853988?title=0&mp;byline=0&amp;portrait=0&amp;color=2fca74" width="500" height="281"></iframe> -->
-	  <!--   </div> -->
-	  <!-- </div> -->
-	</div>
-      </div>
-    </div>
-  </div>
+<div class="text-center px-6">
+  <img src="/assets/images/banbagroup-logo-dark.png" alt="Banba Group" class="max-w-[280px] mx-auto mb-10">
+  <h2 class="text-2xl font-light text-gray-800 mb-3">Banba Group has closed its doors.</h2>
+  <p class="text-lg text-gray-500 mb-6">
+    It was a privilege to work with such talented people and great clients. Thank you for being part of our story.
+  </p>
+  <p class="text-gray-500">
+    For any queries, please contact <a href="mailto:hi@banbagroup.com" class="text-emerald-500 hover:underline">hi@banbagroup.com</a>
+  </p>
 </div>
